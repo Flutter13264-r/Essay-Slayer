@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LanguageNetwork",
+    "\\LanguageNetwork\\GPT2",
+    "\\LanguageNetwork\\GPT2\\finetune",
+    "\\LanguageNetwork\\GPT2\\finetune\\trained_model",
+    "\\LanguageNetwork\\GPT2\\scripts"
+  ],
+  "SelectedNode": "\\colab_online.ipynb",
+  "PreviewInSolutionExplorer": false
+}
