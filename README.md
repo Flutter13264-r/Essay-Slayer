@@ -1,2 +1,3 @@
 # Essay-Slayer
 hi bro
+JUST LOOK AT THE 'ABOUT' INFORMATIONS.
