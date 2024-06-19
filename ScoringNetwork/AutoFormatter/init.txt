@@ -1,7 +1,4 @@
 # -*- coding: gbk -*-
-
-# Original work Copyright 2018 The Google AI Language Team Authors.
-# Modified work Copyright 2019 Rowan Zellers
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
